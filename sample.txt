@@ -1,0 +1,5 @@
+github is a web service
+git is a version control software
+git and github are totally different
+github is used to create a project/respositories
+git can be used in github for version control
