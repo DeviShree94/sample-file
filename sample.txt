@@ -4,3 +4,4 @@ git and github are totally different
 github is used to create a project/respositories
 git can be used in github for version control
 advantage- collabration
+branches help in having a duplicate code of the master branch and experiment on it, if needed can merge it back to the master branch
